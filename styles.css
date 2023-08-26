@@ -1,0 +1,53 @@
+body{
+    background-color: #313131;
+}
+*{
+margin: 0;
+font-family: arial;
+font-size: 20px;
+}
+#escrever{
+    padding: 3% 2% 5%;
+    background-color: #1b1b1b;
+    width: 96%;
+    height: 35px;
+    border: none;
+    border-bottom: solid 10px #505050 ;
+    color: #fff;
+    text-align: end;
+    margin-bottom: 40px;
+    text-decoration: none;
+    box-shadow: 1px 1px 1px 0.5px #222222;
+}
+button{
+    color: #fff;
+    text-align: center;
+    width: 25%;
+    margin: 1%;
+    margin-bottom: 15px;
+    background-color: #5f5f5f;
+    padding: 28px;
+    border: 0;
+    border-radius: 20px;
+    margin-left: 5%;
+    cursor: pointer;
+}
+#reset{
+    background-color:#272727;
+    font-size: 25px;
+}
+#botaoigual{
+    background-color: rgb(138, 184, 214);
+    color: black;
+}
+button:hover{
+    background-color: #272727;
+}
+#delet{
+    background-color: #ff0000ef;
+    font-size: 25px;
+}
+#porcentage{
+    background-color: #272727;
+    font-size: 25px;
+}
